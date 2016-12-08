@@ -1,1 +1,1 @@
-Just asandbox to play with git
+Just a sandbox to play with git
